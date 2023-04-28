@@ -1,0 +1,12 @@
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\bin\Debug\DosyaYonet.exe.config
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\bin\Debug\DosyaYonet.exe
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\bin\Debug\DosyaYonet.pdb
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.csproj.AssemblyReference.cache
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.csproj.SuggestedBindingRedirects.cache
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.Mammal.resources
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.Properties.Resources.resources
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.csproj.GenerateResource.cache
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.csproj.CoreCompileInputs.cache
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.exe
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.pdb
+C:\Users\balci\source\repos\DosyaYonet\DosyaYonet\obj\Debug\DosyaYonet.Form1.resources
